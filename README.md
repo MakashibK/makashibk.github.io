@@ -19,11 +19,11 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on `Something Interesting`.
 
-- 🌱 I’m currently learning `Coding & Digital Marketing`.
+- 🌱 I’m currently learning `Digital Marketing`.
 
-- 👯 I’m looking to collaborate for `Projects`.
+- 👯 I’m looking to collaborate for `SEO Projects`.
 
-- 🤔 I’m looking for help with `SaaS Link Building`.
+- 🤔 I’m looking for help with `Link Building`.
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
@@ -34,34 +34,31 @@ Here are some ideas to get you started: -->
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img alt="Google Ads" src="https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=for-the-badge&logo=Google-Ads&logoColor=white" height="25px"/>
+<img alt="Google Adsense" src="https://img.shields.io/badge/Google%20AdSense-4285F4.svg?style=for-the-badge&logo=Google-AdSense&logoColor=white"  height="25px"/>
+<img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white" height="25px"/>
+<img alt="Google Data Studio" src="https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white" height="25px"/>
+<img alt="Google My Business" src="https://img.shields.io/badge/Google%20My%20Business-4285F4.svg?style=for-the-badge&logo=Google-My-Business&logoColor=white"  height="25px"/>
+<img alt="Google Search Console" src="https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white"  height="25px"/>
 <img alt="SEO" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 <img alt="Ahrefs" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Ahrefs&logoColor=white" height="25px"/>
-<img alt="SEMrush" src="https://img.shields.io/badge/SEMrush.svg?style=for-the-badge&logo=SEMrush&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
-<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<img alt="Semrush" src="https://img.shields.io/badge/Semrush-FF642D.svg?style=for-the-badge&logo=Semrush&logoColor=white" height="25px"/>
+<img alt="Google Tag Manager" src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=for-the-badge&logo=Google-Tag-Manager&logoColor=white" height="25px"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="25px"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="25px"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"  height="25px"/>
+<img alt="Matomo" src="https://img.shields.io/badge/Matomo-3152A0.svg?style=for-the-badge&logo=Matomo&logoColor=white" height="25px"/>
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="25px"/>
+<img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white" height="25px"/>
+<img alt="Squarespace" src="https://img.shields.io/badge/Squarespace-000000.svg?style=for-the-badge&logo=Squarespace&logoColor=white" height="25px"/>
+<img alt="Wix" src="https://img.shields.io/badge/Wix-0C6EFC.svg?style=for-the-badge&logo=Wix&logoColor=white" height="25px"/>
+<img alt="Webflow" src="https://img.shields.io/badge/Webflow-146EF5.svg?style=for-the-badge&logo=Webflow&logoColor=white" height="25px"/>
+<img alt="BigCommerce" src="https://img.shields.io/badge/BigCommerce-121118.svg?style=for-the-badge&logo=BigCommerce&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://makashibk.tech/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/makashibk.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/MakashibK" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/makashibk" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://makashibk.tech/blog" target="_blank"><img alt="Blogs" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/makashibk" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
+<p><a href="https://makashibk.com/" rel="nofollow noopener" target="_blank"><img alt="Github" src="https://img.shields.io/badge/makashibk.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/MakashibK" rel="nofollow noopener" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a> <a href="https://www.linkedin.com/in/makashibk" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a> <a href="https://makashibk.com/blog" rel="nofollow noopener" target="_blank"><img alt="Blogs" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="30px"/></a> <a href="https://www.instagram.com/makashibk" rel="nofollow noopener" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a></p>
 
 ## 🤝 Support Me:
 
@@ -69,7 +66,4 @@ Here are some ideas to get you started: -->
 
 ## 📊 My GitHub Data:
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=makashibk&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makashibk" alt="soumyajit" />
-</div>
+<div align="center"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=makashibk&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makashibk" alt="soumyajit" /></div>
