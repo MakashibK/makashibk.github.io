@@ -40,8 +40,6 @@ Here are some ideas to get you started: -->
 <img alt="Google Data Studio" src="https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white" height="25px"/>
 <img alt="Google My Business" src="https://img.shields.io/badge/Google%20My%20Business-4285F4.svg?style=for-the-badge&logo=Google-My-Business&logoColor=white"  height="25px"/>
 <img alt="Google Search Console" src="https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white"  height="25px"/>
-<img alt="SEO" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="Ahrefs" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Ahrefs&logoColor=white" height="25px"/>
 <img alt="Semrush" src="https://img.shields.io/badge/Semrush-FF642D.svg?style=for-the-badge&logo=Semrush&logoColor=white" height="25px"/>
 <img alt="Google Tag Manager" src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=for-the-badge&logo=Google-Tag-Manager&logoColor=white" height="25px"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="25px"/>
