@@ -15,9 +15,9 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://makashibk.tech/)**
+- 🙋‍♂️ All about me is at **[My Website](https://makashibk.com/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something Interesting`.
 
 - 🌱 I’m currently learning `Coding & Digital Marketing`.
 
